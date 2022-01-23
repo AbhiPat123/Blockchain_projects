@@ -1,0 +1,97 @@
+Console outputs
+
+Connected. Best block hash:
+ 000000a72a11f57dd0768fb760d8106ad90cc5784677b78782921107620be98d
+
+Mnemonic: inmate attack vapor term tray bitter forward weekend grief winner tray voyage
+Unused address: yXk58AjoQC48wxdvhDqfwPeU97fuJBTSU4
+
+Identity:
+ {
+  protocolVersion: 0,
+  id: '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh',
+  publicKeys: [
+    {
+      id: 0,
+      type: 0,
+      data: 'Ajb7X0oGNgImCeUipNznKjVW7zYk82KnFX4zpz7kngHA'
+    }
+  ],
+  balance: 0,
+  revision: 0
+}
+
+Identity retrieved:
+ {
+  protocolVersion: 0,
+  id: '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh',
+  publicKeys: [
+    {
+      id: 0,
+      type: 0,
+      data: 'Ajb7X0oGNgImCeUipNznKjVW7zYk82KnFX4zpz7kngHA'
+    }
+  ],
+  balance: 9999461,
+  revision: 0
+}
+
+Name registered:
+ {
+  '$protocolVersion': 0,
+  '$id': 'FSycQH77x3ftNrVfi5ghULdnXrX5xVvdpQnqR1YqEd1L',
+  '$type': 'domain',
+  '$dataContractId': '36ez8VqoDbR8NkdXwFaf9Tp8ukBdQxN8eYs8JNMnUyKz',
+  '$ownerId': '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh',
+  '$revision': 1,
+  label: 'ASPAT1996',
+  normalizedLabel: 'aspat1996',
+  normalizedParentDomainName: 'dash',
+  preorderSalt: 'dotwu4mzWrAeKM26nUC04f1WI7ngBVfNe+KQz1ALukA=',
+  records: {
+    dashUniqueIdentityId: '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh'
+  },
+  subdomainRules: { allowSubdomains: false }
+}
+
+Alias registered:
+ {
+  '$protocolVersion': 0,
+  '$id': 'FPWRC5JTKHrRN6K1wmfwvTPSRn2Ndyx9xM72HmZqpzV6',
+  '$type': 'domain',
+  '$dataContractId': '36ez8VqoDbR8NkdXwFaf9Tp8ukBdQxN8eYs8JNMnUyKz',
+  '$ownerId': '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh',
+  '$revision': 1,
+  label: 'ThePatKing',
+  normalizedLabel: 'thepatking',
+  normalizedParentDomainName: 'dash',
+  preorderSalt: 'oF62UBbALAGJVuqDUifGZPzSIzikzUv5ioOPZdnezD0=',
+  records: {
+    dashAliasIdentityId: '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh'
+  },
+  subdomainRules: { allowSubdomains: false }
+}
+
+Name retrieved:
+ {
+  '$protocolVersion': 0,
+  '$id': 'FSycQH77x3ftNrVfi5ghULdnXrX5xVvdpQnqR1YqEd1L',
+  '$type': 'domain',
+  '$dataContractId': '36ez8VqoDbR8NkdXwFaf9Tp8ukBdQxN8eYs8JNMnUyKz',
+  '$ownerId': '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh',
+  '$revision': 1,
+  label: 'ASPAT1996',
+  records: {
+    dashUniqueIdentityId: '254kN7apCPogHHLPbapjCLgzSJ5CU5Wjq9ppttjQa7Zh'
+  },
+  preorderSalt: 'dotwu4mzWrAeKM26nUC04f1WI7ngBVfNe+KQz1ALukA=',
+  subdomainRules: { allowSubdomains: false },
+  normalizedLabel: 'aspat1996',
+  normalizedParentDomainName: 'dash'
+}
+
+
+
+
+
+06c982e7379f2b4b5e343f2dbc1f5b224cc4d1890dbf55f876943192a3cd8201
